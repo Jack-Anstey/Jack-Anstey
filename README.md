@@ -7,7 +7,7 @@
 - <a href = "https://github.com/Jack-Anstey/Visualize">Visualize</a><br>
 - <a href = "https://github.com/Jack-Anstey/Project-Albatross">Project-Albatross</a>
 
-<p>...and many others to come! You can find me at one of the links below:</p>
+<p><br>...and many others to come! You can find me at one of the links below:</p>
 <br>
 <a href = "https://www.instagram.com/jack.anstey/"><img src = "assets/ig.png" alt = "Instagram logo" width="100"></a>
 <a href = "https://jackanstey.com/"><img src = "assets/website.png" alt = "Personal Website Logo" width="100"></a>
