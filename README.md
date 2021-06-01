@@ -14,4 +14,4 @@
 <a href = "https://jackanstey.com/" target="_blank"><img src = "assets/website.png" alt = "Personal Website Logo" width="100"></a>
 <br>
 <h3>Stats</h3>
-![Jacks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Anstey&count_private=true&theme=nord)
+<img src="https://github-readme-stats.vercel.app/api?username=Jack-Anstey&count_private=true&theme=nord">
