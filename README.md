@@ -9,9 +9,9 @@
 
 <p><br>...and many others to come! You can find me at one of the links below:</p>
 <br>
-<h3>Links</h3>
-<a href = "https://www.instagram.com/jack.anstey/" target="_blank"><img src = "assets/ig.png" alt = "Instagram logo" width="100"></a>
-<a href = "https://jackanstey.com/" target="_blank"><img src = "assets/website.png" alt = "Personal Website Logo" width="100"></a>
+<h2>Links</h2>
+<p align="center"><a href = "https://www.instagram.com/jack.anstey/" target="_blank"><img src = "assets/ig.png" alt = "Instagram logo" width="100"></a>
+<a href = "https://jackanstey.com/" target="_blank"><img src = "assets/website.png" alt = "Personal Website Logo" width="100"></a></p>
 <br>
-<h3>Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Jack-Anstey&count_private=true&theme=nord">
+<h2>Stats</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jack-Anstey&count_private=true&theme=nord"></p>
