@@ -1,7 +1,9 @@
 <h1>Introduction</h1>
 
 <p>Hello! My name is Jack Anstey. I am currently a Math & Political Science major at Emory University. You can read more about my previous work and things about me at my website <a href = "https://jackanstey.com/" target="_blank">here</a>.</p>
-<br>
+
+<p>I am also a GitHub Campus Expert where I will be enriching and creating technical communities on Emory's Campus.</p>
+
 <p>Below are some of my favorite projects that I have made myself or have had the opprotunity to work on throughout the years:</p>
 - <a href = "https://github.com/Jack-Anstey/Interactive-Portfolio">Interactive-Portfolio</a><br>
 - <a href = "https://github.com/Jack-Anstey/Visualize">Visualize</a><br>
