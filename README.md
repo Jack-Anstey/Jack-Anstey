@@ -7,7 +7,7 @@
 <p>Below are some of my favorite projects that I have made myself or have had the opprotunity to work on throughout the years:</p>
 - <a href = "https://github.com/Jack-Anstey/Interactive-Portfolio">Interactive-Portfolio</a><br>
 - <a href = "https://github.com/Jack-Anstey/Visualize">Visualize</a><br>
-- <a href = "https://github.com/Jack-Anstey/fabric-example-mod/tree/Personal-Mods">Minecraft Mods</a>
+- <a href = "https://github.com/Jack-Anstey/fabric-example-mod">Minecraft Mods</a>
 
 <p><br>...and many others to come! You can find me at one of the links below:</p>
 <br>
