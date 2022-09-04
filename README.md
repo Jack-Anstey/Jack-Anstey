@@ -1,6 +1,6 @@
 <h1>Introduction</h1>
 
-<p>Hello! My name is Jack Anstey. I am double major in Computer Science and in Math & Political Science at Emory University. You can read more about my previous work and things about me at my website <a href = "https://jackanstey.com/" target="_blank">here</a>.</p>
+<p>Hello! My name is Jack Anstey. I am a double major in Computer Science and in Math & Political Science at Emory University. You can read more about my previous work and things about me at my website <a href = "https://jackanstey.com/" target="_blank">here</a>.</p>
 
 <p>I am also a GitHub Campus Expert where I will be enriching and creating technical communities on Emory's Campus.</p>
 
