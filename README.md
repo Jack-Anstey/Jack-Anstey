@@ -15,4 +15,4 @@
 <p align="center"><a href = "https://www.instagram.com/jack.anstey/" target="_blank"><img src = "assets/insta.png" alt = "Instagram logo" width="100"></a>
 <a href = "https://jackanstey.com/" target="_blank"><img src = "assets/website.png" alt = "Personal Website Logo" width="100"></a></p>
 <h2>Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jack-Anstey&count_private=true&theme=nord"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jack-Anstey&count_private=true&theme=transparent"></p>
