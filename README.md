@@ -1,6 +1,6 @@
 <h1>Introduction</h1>
 
-<p>Hello! My name is Jack Anstey. I am an Emory Almuni where I majored both Computer Science and in the Math & Political Science joint major. You can read more about my previous work and things about me at my website <a href = "https://jackanstey.com/" target="_blank">here</a>.</p>
+<p>Hello! My name is Jack Anstey. I am an Emory Almuni where I majored in both Computer Science and in the Math & Political Science joint major. You can read more about my previous work and things about me at my website <a href = "https://jackanstey.com/" target="_blank">here</a>.</p>
 
 <p>I am also a GitHub Campus Expert Alumni and I'm always willing to help out if you have any questions about integrating GitHub onto your campus.</p>
 
