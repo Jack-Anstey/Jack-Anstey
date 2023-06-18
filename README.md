@@ -21,5 +21,5 @@ Below are some of my favorite projects that I have made myself or have had the o
 ## Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Jack-Anstey&count_private=true&theme=transparent&hide_rank=true&number_format=long">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Anstey&count_private=true&theme=transparent&ML-Solutions&langs_count=5&hide=Jupyter Notebook">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Anstey&count_private=true&theme=transparent&ML-Solutions&langs_count=5&hide=Jupyter+Notebook">
 </p>
